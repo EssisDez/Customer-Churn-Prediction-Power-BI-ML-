@@ -67,6 +67,9 @@ Key Findings:
 - Age appeared to be an important churn factor
 - Satisfaction levels impacted customer behavior
 
+ ![age]Visuals/ChurnByAge.png
+
+
 (Insert screenshots here)
 
      Machine Learning
