@@ -58,19 +58,23 @@ The dataset contained no missing values and no duplicate records
 
 Several visual analyses were conducted to understand customer behavior
 
-Key Findings:
+**Key Findings:**
 
-- Approximately 20% of customers exited the bank
-- Customer complaints were strongly associated with churn
-- Inactive customers showed higher churn rates
-- Geography influenced customer retention
-- Age appeared to be an important churn factor
-- Satisfaction levels impacted customer behavior
+# Approximately 20% of customers exited the bank
 
- ![age]Visuals/ChurnByAge.png
+# Customer complaints were strongly associated with churn
+
+# Inactive customers showed higher churn rates
+
+# Geography influenced customer retention
+  
+# Age appeared to be an important churn factor
+  
+   ![age](Visuals/ChurnByAge.png)
+
+# Satisfaction levels impacted customer behavior
 
 
-(Insert screenshots here)
 
      Machine Learning
 **Data Preprocessing**
