@@ -60,13 +60,14 @@ Several visual analyses were conducted to understand customer behavior
 
 **Key Findings:**
 
-# Approximately 20% of customers exited the bank
 
 # Customer complaints were strongly associated with churn
 
-# Inactive customers showed higher churn rates
+![complaints](Visuals/Customer_Complaints_vs_Churn.png)
 
 # Geography influenced customer retention
+
+![Geography](Visuals/ChurnByGeography.png)
   
 # Age appeared to be an important churn factor
   
@@ -74,6 +75,7 @@ Several visual analyses were conducted to understand customer behavior
 
 # Satisfaction levels impacted customer behavior
 
+![Score](Visuals/ChurnByRetained.png)
 
 
      Machine Learning
@@ -105,7 +107,7 @@ Workflow
 
 Accuracy: XX.XX%
 
-(Insert confusion matrix screenshot here)
+![Confusion](Visuals/ConfusionMatrix.png)
 
 The model demonstrated strong predictive performance in identifying customers likely to churn
 
@@ -121,7 +123,7 @@ Examples of important features include:
 - Balance
 - Number of Products
 
-(Insert feature importance chart here)
+![Feature](Visuals/FeatureImportance.png)
 
      High-Risk Customer Analysis
 
