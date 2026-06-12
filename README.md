@@ -136,6 +136,8 @@ Key observations:
 - Older customers appeared more vulnerable to churn
 - Long tenure alone did not guarantee customer retention
 
+  ![HighRisk](Visuals/high_risk_customer.jpeg)
+
 These insights can support proactive customer retention strategies
 
     Power BI Dashboard
@@ -165,7 +167,8 @@ High-Risk Customers
 - Churn Probability Monitoring
 - Interactive Filters
 
-(Insert dashboard screenshots here)
+
+
     Technologies Used
     
 - Python
