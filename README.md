@@ -114,8 +114,7 @@ The model demonstrated strong predictive performance in identifying customers li
 ![Confusion](Visuals/ConfusionMatrix.png)
 
 
-
-   Feature Importance
+  **Feature Importance**
 
 The Random Forest model identified the most influential factors contributing to customer churn
 
