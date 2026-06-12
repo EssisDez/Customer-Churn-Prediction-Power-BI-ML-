@@ -105,11 +105,15 @@ Workflow
 
 **Accuracy Score**
 
-Accuracy: XX.XX%
+Accuracy:  0.999
+
+The model demonstrated strong predictive performance in identifying customers likely to churn
+
+**Confusion Matrix**
 
 ![Confusion](Visuals/ConfusionMatrix.png)
 
-The model demonstrated strong predictive performance in identifying customers likely to churn
+
 
    Feature Importance
 
